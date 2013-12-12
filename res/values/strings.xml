@@ -4,5 +4,7 @@
     <string name="app_name">OpenSpaceDemos</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="title_activity_simple_popup_window">SimplePopupWindowActivity</string>
+    <string name="title_activity_animate_button_demo">AnimateButtonDemo</string>
 
 </resources>
